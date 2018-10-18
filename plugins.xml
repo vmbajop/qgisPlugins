@@ -9,7 +9,7 @@ plugin_id="227">
 </description>
 <about></about>
 <version>0.1.0</version>
-<qgis_minimum_version>2.0</qgis_minimum_version>
+<qgis_minimum_version>2.8</qgis_minimum_version>
 <qgis_maximum_version>2.18</qgis_maximum_version>
 <homepage>
 <![CDATA[https://github.com/vmbajop/qgisplugins/]]>
@@ -30,7 +30,7 @@ https://github.com/vmbajop/qgisplugins/icon.png
 <![CDATA[https://github.com/vmbajop/qgisplugins/issues]]>
 </tracker>
 <repository>
-<![CDATA[https://github.com/vmbajop/qgisplugins/svn/]]>
+<![CDATA[https://github.com/vmbajop/qgisplugins/]]>
 </repository>
 <tags>
 <![CDATA[development,debugging,tools]]></tags>
