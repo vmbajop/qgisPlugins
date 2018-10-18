@@ -12,14 +12,14 @@ plugin_id="227">
 <qgis_minimum_version>2.0</qgis_minimum_version>
 <qgis_maximum_version>2.18</qgis_maximum_version>
 <homepage>
-<![CDATA[https://github.com/vmbajop/scriptsCursoPython/?qgis=2.18]]>
+<![CDATA[https://github.com/vmbajop/qgisplugins/]]>
 </homepage>
 <file_name>myPlugin0.1.0.zip</file_name>
 <icon>
-https://github.com/vmbajop/scriptsCursoPython/icon.png
+https://github.com/vmbajop/qgisplugins/icon.png
 </icon>
 <author_name><![CDATA[vmbp]]></author_name>
-<download_url> https://github.com/vmbajop/scriptsCursoPython/myPlugin0.1.0.zip
+<download_url> https://github.com/vmbajop/qgisplugins/myPlugin0.1.0.zip
 </download_url>
 <uploaded_by><![CDATA[jll]]></uploaded_by>
 <create_date>2014-05-16T15:31:19.824333</create_date>
@@ -27,10 +27,10 @@ https://github.com/vmbajop/scriptsCursoPython/icon.png
 <experimental>True</experimental>
 <deprecated>False</deprecated>
 <tracker>
-<![CDATA[https://github.com/vmbajop/scriptsCursoPython/issues]]>
+<![CDATA[https://github.com/vmbajop/qgisplugins/issues]]>
 </tracker>
 <repository>
-<![CDATA[https://github.com/vmbajop/scriptsCursoPython/svn/]]>
+<![CDATA[https://github.com/vmbajop/qgisplugins/svn/]]>
 </repository>
 <tags>
 <![CDATA[development,debugging,tools]]></tags>
